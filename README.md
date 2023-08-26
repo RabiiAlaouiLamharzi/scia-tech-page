@@ -1,6 +1,6 @@
 # Scia-Tech Landing Page (React, Tailwind CSS, Vite)
 
-[Scia-Tech Website Link](https://main.d2srzmx1cumuy2.amplifyapp.com/)
+[Scia-Tech Website Link](https://www.scia-tech.net/)
   
 ## About
 
