@@ -1,6 +1,6 @@
 # Scia-Tech Landing Page (React, Tailwind CSS, Vite)
 
-[Scia-Tech Website Link](https://www.scia-tech.net/)
+<a href="https://www.scia-tech.net/" target="_blank">Scia-Tech Website Link</a>
   
 ## About
 
