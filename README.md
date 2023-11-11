@@ -15,6 +15,10 @@ closely monitor your walking patterns, prolonged sitting, heavy lifting, intense
 - **Swift Development with Vite**: We've chosen Vite as our build tool for rapid development. Its hot module replacement ensures a productive workflow.
 - **Tailor-Made Styling with Tailwind CSS**: Tailwind CSS empowers us to create custom styles while maintaining a consistent and professional appearance.
 
+## Figma Design
+
+<img width="697" alt="Screenshot 2023-11-11 at 15 06 09" src="https://github.com/RabiiAlaouiLamharzi/scia-tech-page/assets/103124512/109534f3-b230-4945-add1-7712e35dcc5f">
+
 ## Getting Started
 
 Before you begin, ensure you have the following installed:
